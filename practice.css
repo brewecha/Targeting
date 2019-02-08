@@ -1,3 +1,21 @@
 body{
     text-align: center
 }
+
+.quotes{
+    font-size: 24px;
+}
+
+.songs{
+   text-decoration: underline;
+   text-transform: uppercase;
+   font-size: 30px;
+}
+
+#nuketown{
+    font-size: 10px;
+}
+
+#dftl{
+    font-size: 15px;
+}
