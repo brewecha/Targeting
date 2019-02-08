@@ -5,34 +5,42 @@ body{
 h1{
     text-shadow: 2px 3px 1px black;
     color: red;
+    font-family: 'Fredoka One', cursive;
 }
 
 p{
-  text-size: 17px  
+  text-size: 17px;
+  font-family: 'Boogaloo', cursive;
 }
 
 .quotes{
     font-size: 20px;
+    font-family: 'Contrail One', cursive;
 }
 
 .songs{
    text-decoration: underline;
    text-transform: uppercase;
    font-size: 24px;
+   font-family: 'Concert One', cursive;
 }
 
 #nuketown{
     font-size: 10px;
+    font-family: 'Baloo Thambi', cursive;
 }
 
 #dftl{
     font-size: 15px;
+    font-family: 'Baloo Thambi', cursive;
 }
     
 #irm{
     font-size: 13px;
+    font-family: 'Baloo Thambi', cursive;
 }
 
 #mp{
     font-size: 14px;
+    font-family: 'Baloo Thambi', cursive;
 }
